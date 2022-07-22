@@ -113,6 +113,7 @@ $ hexo new post "article title"
 
 ```
 $ hexo g   // 生成
+$ hexo s   // 本地预览
 $ hexo d   // 部署
 ```
 
